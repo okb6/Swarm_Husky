@@ -1,0 +1,17 @@
+[0.581s] Invoking command in '/home/cairlab/teleop-keyboard-husky-foxy-devel/build/teleop_twist_keyboard': PYTHONPATH=/home/cairlab/teleop-keyboard-husky-foxy-devel/build/teleop_twist_keyboard/prefix_override:/home/cairlab/teleop-keyboard-husky-foxy-devel/install/teleop_twist_keyboard/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/cairlab/teleop-keyboard-husky-foxy-devel/build/teleop_twist_keyboard/build --no-deps install_data
+[0.759s] running develop
+[0.897s] running egg_info
+[0.897s] writing teleop_twist_keyboard.egg-info/PKG-INFO
+[0.897s] writing dependency_links to teleop_twist_keyboard.egg-info/dependency_links.txt
+[0.897s] writing entry points to teleop_twist_keyboard.egg-info/entry_points.txt
+[0.897s] writing requirements to teleop_twist_keyboard.egg-info/requires.txt
+[0.897s] writing top-level names to teleop_twist_keyboard.egg-info/top_level.txt
+[0.926s] reading manifest file 'teleop_twist_keyboard.egg-info/SOURCES.txt'
+[0.927s] writing manifest file 'teleop_twist_keyboard.egg-info/SOURCES.txt'
+[0.954s] running build_ext
+[0.954s] Creating /home/cairlab/teleop-keyboard-husky-foxy-devel/install/teleop_twist_keyboard/lib/python3.8/site-packages/teleop-twist-keyboard.egg-link (link to .)
+[0.960s] Installing teleop_twist_keyboard script to /home/cairlab/teleop-keyboard-husky-foxy-devel/install/teleop_twist_keyboard/lib/teleop_twist_keyboard
+[0.960s] 
+[0.960s] Installed /home/cairlab/teleop-keyboard-husky-foxy-devel/build/teleop_twist_keyboard
+[0.960s] running install_data
+[1.031s] Invoked command in '/home/cairlab/teleop-keyboard-husky-foxy-devel/build/teleop_twist_keyboard' returned '0': PYTHONPATH=/home/cairlab/teleop-keyboard-husky-foxy-devel/build/teleop_twist_keyboard/prefix_override:/home/cairlab/teleop-keyboard-husky-foxy-devel/install/teleop_twist_keyboard/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/cairlab/teleop-keyboard-husky-foxy-devel/build/teleop_twist_keyboard/build --no-deps install_data

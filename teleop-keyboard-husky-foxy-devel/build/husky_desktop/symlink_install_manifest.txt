@@ -1,0 +1,15 @@
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/ament_index/resource_index/package_run_dependencies/husky_desktop
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/ament_index/resource_index/parent_prefix_path/husky_desktop
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/environment/ament_prefix_path.sh
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/environment/ament_prefix_path.dsv
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/environment/path.sh
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/environment/path.dsv
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/local_setup.bash
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/local_setup.sh
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/local_setup.zsh
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/local_setup.dsv
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/package.dsv
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/ament_index/resource_index/packages/husky_desktop
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/cmake/husky_desktopConfig.cmake
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/cmake/husky_desktopConfig-version.cmake
+/home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_desktop/share/husky_desktop/package.xml

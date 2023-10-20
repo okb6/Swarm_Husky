@@ -1,0 +1,109 @@
+[0.031s] Invoking command in '/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/build/husky_base': AMENT_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_desktop:/home/cairlab/Documents/husky-foxy-devel/install/husky_viz:/home/cairlab/Documents/husky-foxy-devel/install/husky_simulator:/home/cairlab/Documents/husky-foxy-devel/install/husky_robot:/home/cairlab/Documents/husky-foxy-devel/install/husky_bringup:/home/cairlab/Documents/husky-foxy-devel/install/husky_base:/home/cairlab/Documents/husky-foxy-devel/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_gazebo:/home/cairlab/Documents/husky-foxy-devel/install/husky_control:/home/cairlab/Documents/husky-foxy-devel/install/husky_description:/path/to/xacro:/opt/ros/foxy LD_LIBRARY_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/husky_base -DCMAKE_INSTALL_PREFIX=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base
+[0.074s] -- The C compiler identification is GNU 9.4.0
+[0.118s] -- The CXX compiler identification is GNU 9.4.0
+[0.123s] -- Check for working C compiler: /usr/bin/cc
+[0.179s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.180s] -- Detecting C compiler ABI info
+[0.235s] -- Detecting C compiler ABI info - done
+[0.245s] -- Detecting C compile features
+[0.245s] -- Detecting C compile features - done
+[0.247s] -- Check for working CXX compiler: /usr/bin/c++
+[0.311s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.312s] -- Detecting CXX compiler ABI info
+[0.378s] -- Detecting CXX compiler ABI info - done
+[0.395s] -- Detecting CXX compile features
+[0.396s] -- Detecting CXX compile features - done
+[0.399s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.423s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.423s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.583s] -- Found controller_interface: 0.11.0 (/opt/ros/foxy/share/controller_interface/cmake)
+[0.617s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.624s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.697s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.734s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.803s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.251s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[1.252s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.257s] -- Looking for pthread.h
+[1.315s] -- Looking for pthread.h - found
+[1.315s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.375s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[1.375s] -- Looking for pthread_create in pthreads
+[1.424s] -- Looking for pthread_create in pthreads - not found
+[1.424s] -- Looking for pthread_create in pthread
+[1.487s] -- Looking for pthread_create in pthread - found
+[1.488s] -- Found Threads: TRUE  
+[1.705s] -- Found controller_manager: 0.11.0 (/opt/ros/foxy/share/controller_manager/cmake)
+[1.758s] -- Found husky_msgs: 1.0.9 (/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/share/husky_msgs/cmake)
+[1.787s] -- Found nav_msgs: 2.0.5 (/opt/ros/foxy/share/nav_msgs/cmake)
+[1.843s] -- Found std_srvs: 2.0.5 (/opt/ros/foxy/share/std_srvs/cmake)
+[1.851s] -- Found tf2: 0.13.14 (/opt/ros/foxy/share/tf2/cmake)
+[1.860s] -- Found tf2_ros: 0.13.14 (/opt/ros/foxy/share/tf2_ros/cmake)
+[2.147s] -- Configuring done
+[2.166s] -- Generating done
+[2.168s] -- Build files have been written to: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/build/husky_base
+[2.175s] Invoked command in '/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/build/husky_base' returned '0': AMENT_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_desktop:/home/cairlab/Documents/husky-foxy-devel/install/husky_viz:/home/cairlab/Documents/husky-foxy-devel/install/husky_simulator:/home/cairlab/Documents/husky-foxy-devel/install/husky_robot:/home/cairlab/Documents/husky-foxy-devel/install/husky_bringup:/home/cairlab/Documents/husky-foxy-devel/install/husky_base:/home/cairlab/Documents/husky-foxy-devel/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_gazebo:/home/cairlab/Documents/husky-foxy-devel/install/husky_control:/home/cairlab/Documents/husky-foxy-devel/install/husky_description:/path/to/xacro:/opt/ros/foxy LD_LIBRARY_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/husky_base -DCMAKE_INSTALL_PREFIX=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base
+[2.177s] Invoking command in '/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/build/husky_base': AMENT_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_desktop:/home/cairlab/Documents/husky-foxy-devel/install/husky_viz:/home/cairlab/Documents/husky-foxy-devel/install/husky_simulator:/home/cairlab/Documents/husky-foxy-devel/install/husky_robot:/home/cairlab/Documents/husky-foxy-devel/install/husky_bringup:/home/cairlab/Documents/husky-foxy-devel/install/husky_base:/home/cairlab/Documents/husky-foxy-devel/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_gazebo:/home/cairlab/Documents/husky-foxy-devel/install/husky_control:/home/cairlab/Documents/husky-foxy-devel/install/husky_description:/path/to/xacro:/opt/ros/foxy LD_LIBRARY_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/build/husky_base -- -j12 -l12
+[2.211s] [35m[1mScanning dependencies of target husky_hardware[0m
+[2.253s] [ 38%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/horizon_legacy/crc.cpp.o[0m
+[2.253s] [ 38%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/horizon_legacy_wrapper.cpp.o[0m
+[2.254s] [ 38%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/husky_status.cpp.o[0m
+[2.254s] [ 38%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/horizon_legacy/Logger.cpp.o[0m
+[2.254s] [ 38%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/husky_hardware.cpp.o[0m
+[2.254s] [ 53%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/horizon_legacy/Transport.cpp.o[0m
+[2.254s] [ 46%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/horizon_legacy/Message_data.cpp.o[0m
+[2.254s] [ 61%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/horizon_legacy/Message.cpp.o[0m
+[2.255s] [ 69%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/horizon_legacy/Message_request.cpp.o[0m
+[2.255s] [ 76%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/horizon_legacy/Message_cmd.cpp.o[0m
+[2.264s] [ 92%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/horizon_legacy/Number.cpp.o[0m
+[2.264s] [ 92%] [32mBuilding CXX object CMakeFiles/husky_hardware.dir/src/horizon_legacy/linux_serial.cpp.o[0m
+[4.424s] [100%] [32m[1mLinking CXX shared library libhusky_hardware.so[0m
+[4.609s] [100%] Built target husky_hardware
+[4.618s] Invoked command in '/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/build/husky_base' returned '0': AMENT_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_desktop:/home/cairlab/Documents/husky-foxy-devel/install/husky_viz:/home/cairlab/Documents/husky-foxy-devel/install/husky_simulator:/home/cairlab/Documents/husky-foxy-devel/install/husky_robot:/home/cairlab/Documents/husky-foxy-devel/install/husky_bringup:/home/cairlab/Documents/husky-foxy-devel/install/husky_base:/home/cairlab/Documents/husky-foxy-devel/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_gazebo:/home/cairlab/Documents/husky-foxy-devel/install/husky_control:/home/cairlab/Documents/husky-foxy-devel/install/husky_description:/path/to/xacro:/opt/ros/foxy LD_LIBRARY_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/build/husky_base -- -j12 -l12
+[4.653s] Invoking command in '/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/build/husky_base': AMENT_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_desktop:/home/cairlab/Documents/husky-foxy-devel/install/husky_viz:/home/cairlab/Documents/husky-foxy-devel/install/husky_simulator:/home/cairlab/Documents/husky-foxy-devel/install/husky_robot:/home/cairlab/Documents/husky-foxy-devel/install/husky_bringup:/home/cairlab/Documents/husky-foxy-devel/install/husky_base:/home/cairlab/Documents/husky-foxy-devel/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_gazebo:/home/cairlab/Documents/husky-foxy-devel/install/husky_control:/home/cairlab/Documents/husky-foxy-devel/install/husky_description:/path/to/xacro:/opt/ros/foxy LD_LIBRARY_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/build/husky_base
+[4.660s] -- Install configuration: ""
+[4.660s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/husky_hardware.xml
+[4.660s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/lib/libhusky_hardware.so
+[4.662s] -- Set runtime path of "/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/lib/libhusky_hardware.so" to ""
+[4.662s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include
+[4.662s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base
+[4.662s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/husky_hardware.hpp
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy_wrapper.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/husky_diagnostics.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy/Message_cmd.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy/Exception.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy/Transport.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy/Message_data.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy/Message.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy/Logger.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy/clearpath.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy/Message_request.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy/crc.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy/serial.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/horizon_legacy/Number.h
+[4.663s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/include/husky_base/husky_status.hpp
+[4.664s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/launch
+[4.664s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/launch/base.launch.py
+[4.664s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/environment/library_path.sh
+[4.664s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/environment/library_path.dsv
+[4.664s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/ament_index/resource_index/package_run_dependencies/husky_base
+[4.664s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/ament_index/resource_index/parent_prefix_path/husky_base
+[4.664s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/environment/ament_prefix_path.sh
+[4.664s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/environment/ament_prefix_path.dsv
+[4.665s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/environment/path.sh
+[4.665s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/environment/path.dsv
+[4.665s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/local_setup.bash
+[4.665s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/local_setup.sh
+[4.665s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/local_setup.zsh
+[4.665s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/local_setup.dsv
+[4.665s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/package.dsv
+[4.665s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/ament_index/resource_index/packages/husky_base
+[4.665s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/husky_base
+[4.666s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.666s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/cmake/ament_cmake_export_libraries-extras.cmake
+[4.666s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.666s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/cmake/husky_baseConfig.cmake
+[4.666s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/cmake/husky_baseConfig-version.cmake
+[4.666s] -- Installing: /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_base/share/husky_base/package.xml
+[4.677s] Invoked command in '/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/build/husky_base' returned '0': AMENT_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_desktop:/home/cairlab/Documents/husky-foxy-devel/install/husky_viz:/home/cairlab/Documents/husky-foxy-devel/install/husky_simulator:/home/cairlab/Documents/husky-foxy-devel/install/husky_robot:/home/cairlab/Documents/husky-foxy-devel/install/husky_bringup:/home/cairlab/Documents/husky-foxy-devel/install/husky_base:/home/cairlab/Documents/husky-foxy-devel/install/husky_msgs:/home/cairlab/Documents/husky-foxy-devel/install/husky_gazebo:/home/cairlab/Documents/husky-foxy-devel/install/husky_control:/home/cairlab/Documents/husky-foxy-devel/install/husky_description:/path/to/xacro:/opt/ros/foxy LD_LIBRARY_PATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/install/husky_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/cairlab/Documents/teleop-keyboard-husky-foxy-devel/src/build/husky_base

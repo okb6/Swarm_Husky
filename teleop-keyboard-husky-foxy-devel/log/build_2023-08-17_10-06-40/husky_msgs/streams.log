@@ -1,0 +1,92 @@
+[0.051s] Invoking command in '/home/cairlab/teleop-keyboard-husky-foxy-devel/build/husky_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cairlab/teleop-keyboard-husky-foxy-devel/install/teleop_twist_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/cairlab/teleop-keyboard-husky-foxy-devel/build/husky_msgs -- -j12 -l12
+[0.100s] [  3%] Built target husky_msgs__cpp
+[0.100s] [ 12%] Built target husky_msgs__rosidl_generator_c
+[0.123s] [ 25%] Built target husky_msgs__rosidl_typesupport_c
+[0.123s] [ 32%] Built target husky_msgs__rosidl_typesupport_cpp
+[0.125s] [ 41%] Built target husky_msgs__rosidl_typesupport_introspection_c
+[0.126s] [ 51%] Built target husky_msgs__rosidl_typesupport_introspection_cpp
+[0.127s] [ 61%] Built target husky_msgs__rosidl_typesupport_fastrtps_cpp
+[0.152s] [ 70%] Built target husky_msgs__rosidl_typesupport_fastrtps_c
+[0.170s] [ 70%] Built target husky_msgs
+[0.188s] [ 74%] Built target husky_msgs__py
+[0.212s] [ 80%] Built target husky_msgs__python
+[0.235s] [100%] Built target husky_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.236s] [100%] Built target husky_msgs__rosidl_typesupport_c__pyext
+[0.236s] [100%] Built target husky_msgs__rosidl_typesupport_introspection_c__pyext
+[0.307s] Invoked command in '/home/cairlab/teleop-keyboard-husky-foxy-devel/build/husky_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cairlab/teleop-keyboard-husky-foxy-devel/install/teleop_twist_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/cairlab/teleop-keyboard-husky-foxy-devel/build/husky_msgs -- -j12 -l12
+[0.353s] Invoking command in '/home/cairlab/teleop-keyboard-husky-foxy-devel/build/husky_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cairlab/teleop-keyboard-husky-foxy-devel/install/teleop_twist_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/cairlab/teleop-keyboard-husky-foxy-devel/build/husky_msgs
+[0.363s] -- Install configuration: ""
+[0.367s] -- Execute custom install script
+[0.367s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/ament_index/resource_index/rosidl_interfaces/husky_msgs
+[0.367s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/detail/husky_status__functions.h
+[0.367s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/detail/husky_status__struct.h
+[0.367s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/detail/husky_status__type_support.h
+[0.368s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/husky_status.h
+[0.368s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.368s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/environment/library_path.sh
+[0.368s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/environment/library_path.dsv
+[0.370s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/detail/husky_status__rosidl_typesupport_fastrtps_c.h
+[0.370s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.370s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_fastrtps_c.so
+[0.370s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/detail/husky_status__rosidl_typesupport_fastrtps_cpp.hpp
+[0.371s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.371s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.371s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/detail/husky_status__rosidl_typesupport_introspection_c.h
+[0.371s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.373s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/detail/husky_status__builder.hpp
+[0.373s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/detail/husky_status__struct.hpp
+[0.375s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/detail/husky_status__traits.hpp
+[0.378s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/detail/husky_status__type_support.hpp
+[0.378s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/husky_status.hpp
+[0.378s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.378s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/include/husky_msgs/msg/detail/husky_status__rosidl_typesupport_introspection_cpp.hpp
+[0.378s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/environment/pythonpath.sh
+[0.379s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/environment/pythonpath.dsv
+[0.379s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/python3.8/site-packages/husky_msgs/__init__.py
+[0.379s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/python3.8/site-packages/husky_msgs/msg/__init__.py
+[0.381s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/python3.8/site-packages/husky_msgs/msg/_husky_status.py
+[0.381s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/python3.8/site-packages/husky_msgs/husky_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[0.381s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/python3.8/site-packages/husky_msgs/husky_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[0.381s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/python3.8/site-packages/husky_msgs/husky_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[0.382s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/libhusky_msgs__python.so
+[0.382s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/msg/HuskyStatus.idl
+[0.382s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/msg/HuskyStatus.msg
+[0.382s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/ament_index/resource_index/package_run_dependencies/husky_msgs
+[0.382s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/ament_index/resource_index/parent_prefix_path/husky_msgs
+[0.382s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/environment/ament_prefix_path.sh
+[0.382s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/environment/ament_prefix_path.dsv
+[0.382s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/environment/path.sh
+[0.382s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/environment/path.dsv
+[0.382s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/local_setup.bash
+[0.382s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/local_setup.sh
+[0.383s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/local_setup.zsh
+[0.383s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/local_setup.dsv
+[0.383s] -- Symlinking: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/package.dsv
+[0.392s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/ament_index/resource_index/packages/husky_msgs
+[0.392s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/rosidl_cmake-extras.cmake
+[0.393s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.393s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[0.393s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[0.393s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.394s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.394s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.395s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgsConfig.cmake
+[0.401s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgsConfig-version.cmake
+[0.401s] -- Up-to-date symlink: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/package.xml
+[0.401s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/libhusky_msgs__rosidl_generator_c.so
+[0.401s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_introspection_c.so
+[0.402s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_c.so
+[0.402s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_introspection_cpp.so
+[0.402s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_cpp.so
+[0.432s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_generator_cExport.cmake
+[0.437s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_generator_cExport-noconfig.cmake
+[0.438s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_introspection_cExport.cmake
+[0.438s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.438s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_cExport.cmake
+[0.438s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[0.438s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_generator_cppExport.cmake
+[0.438s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[0.438s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.439s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_cppExport.cmake
+[0.439s] -- Up-to-date: /home/cairlab/teleop-keyboard-husky-foxy-devel/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[0.503s] Invoked command in '/home/cairlab/teleop-keyboard-husky-foxy-devel/build/husky_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cairlab/teleop-keyboard-husky-foxy-devel/install/teleop_twist_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/cairlab/teleop-keyboard-husky-foxy-devel/build/husky_msgs
