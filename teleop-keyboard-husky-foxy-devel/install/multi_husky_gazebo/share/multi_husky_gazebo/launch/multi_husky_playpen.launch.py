@@ -1,1 +1,0 @@
-/home/cairlab/teleop-keyboard-husky-foxy-devel/src/multi_husky_gazebo/launch/multi_husky_playpen.launch.py

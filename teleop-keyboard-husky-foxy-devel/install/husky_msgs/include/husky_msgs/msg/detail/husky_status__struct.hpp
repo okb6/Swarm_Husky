@@ -1,1 +1,0 @@
-/home/cairlab/teleop-keyboard-husky-foxy-devel/build/husky_msgs/rosidl_generator_cpp/husky_msgs/msg/detail/husky_status__struct.hpp
